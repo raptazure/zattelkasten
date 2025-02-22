@@ -2,8 +2,10 @@
 title: The Redress of Poetry
 draft: false
 tags:
-  - poetry
   - imagination
+  - literature
+  - poetry
+time: 2025-02-22 21:44
 ---
 
 

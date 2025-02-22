@@ -1,6 +1,8 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Raptazure's Zattelkasten!
 ---
+This is a zattelkasten page built with Obsidian, Quartz and GitHub.
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+
+![](https://pic1.imgdb.cn/item/63770acd16f2c2beb1054414.jpg)
+
