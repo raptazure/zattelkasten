@@ -27,3 +27,5 @@ Next comes the question - what kinds of computer then? In order to adapt to vari
 
 Of course, choosing the appropriate device is just the beginning, what comes next may be more important - use the device to experience and to create more beautiful and meaningful things. 
 
+I desire to go back to the olden ways of interacting with virtual worlds - books and a computer.
+
