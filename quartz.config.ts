@@ -24,8 +24,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Papyrus",
-        body: "Papyrus",
+        header: "Monotype Corsiva",
+        body: "Cambria",
         code: "IBM Plex Mono",
       },
       colors: {
