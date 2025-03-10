@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: obsidian-quartz
+created: 2025-03-10T12:20:04+08:00
