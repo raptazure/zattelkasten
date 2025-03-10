@@ -35,12 +35,14 @@
             "id": "8cc73e797fdc693a",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "textgenerator/templates/default"
+                "file": "textgenerator/templates/default/summarizeLarge.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "default"
+              "title": "summarizeLarge"
             }
           }
         ],
@@ -98,7 +100,7 @@
             }
           },
           {
-            "id": "30f854f9109278c0",
+            "id": "5e4b8c4b9ec60664",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -207,6 +209,16 @@
   },
   "active": "8cc73e797fdc693a",
   "lastOpenFiles": [
+    "textgenerator/templates/default/summarize.md",
+    "textgenerator/templates/default/simplify.md",
+    "textgenerator/templates/default/rewrite.md",
+    "textgenerator/templates/default/getTitles.md",
+    "textgenerator/templates/default/getTags.md",
+    "textgenerator/templates/default/getParagraph.md",
+    "textgenerator/templates/default/getOutline.md",
+    "textgenerator/templates/default/getIdeas.md",
+    "textgenerator/templates/default/getEmailNeg.md",
+    "textgenerator/templates/default/getEmailPos.md",
     "Untitled.md",
     "6 - Calendar/6 - Calendar.md",
     "6 - Calendar",
@@ -214,17 +226,7 @@
     "1 - Poems/A Dreaming Owl Unbound.md",
     "2 - Essays/The Book of Thel.md",
     "3 - Moments/2025-03-02 Illusory Summer.md",
-    "textgenerator/templates/default/simplify.md",
-    "textgenerator/templates/default/getIdeas.md",
-    "textgenerator/templates/default/getOutline.md",
-    "textgenerator/templates/default/summarize.md",
-    "textgenerator/templates/default/rewrite.md",
-    "textgenerator/templates/default/getEmailNeg.md",
-    "textgenerator/templates/default/getParagraph.md",
     "textgenerator/templates/default/summarizeLarge.md",
-    "textgenerator/templates/default/getTitles.md",
-    "textgenerator/templates/default/getTags.md",
-    "textgenerator/templates/default/getEmailPos.md",
     "textgenerator/templates/default",
     "textgenerator/templates",
     "textgenerator",

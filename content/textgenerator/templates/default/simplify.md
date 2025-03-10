@@ -3,8 +3,11 @@ promptId: simplify
 name: 👼Simplify
 description: select a content and it will be simplified.
 author: Noureddine
-tags: thinking, writing
+tags:
+  - thinking
+  - writing
 version: 0.0.1
+draft: true
 ---
 content: 
 {{context}}

@@ -3,8 +3,10 @@ promptId: rewrite
 name: ✏️ Rewrite, Paraphrase
 description: select a content and it will be rewriten.
 author: Noureddine
-tags: writing
+tags:
+  - writing
 version: 0.0.1
+draft: true
 ---
 content: 
 {{context}}
