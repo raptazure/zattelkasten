@@ -37,7 +37,9 @@
   "expandedSpaces": [
     "/",
     "//textgenerator/textgenerator/templates",
-    "//textgenerator/textgenerator/templates/textgenerator/templates/default"
+    "//textgenerator/textgenerator/templates/textgenerator/templates/default",
+    "//3 - Moments",
+    "//textgenerator"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
