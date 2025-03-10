@@ -8,5 +8,4 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
-textgenerator
-Tags
+content/textgenerator/
