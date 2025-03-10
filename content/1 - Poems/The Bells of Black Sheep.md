@@ -14,6 +14,8 @@ Attempts to soar high with golden wings
 
 For vain hope, swirling and flitting in the wind.
 
+<br>
+
 Above the clouds twenty sheep solemnly stand,
 
 Proud their mien, regal even, like the ministers
@@ -22,6 +24,8 @@ Heralding demise, those from that mysterious land
 
 Of decay and despair, tolling the bells of disaster.
 
+<br>
+
 The sound is slow and heavy, pulsating like heartbeats
 
 Which blindly run through the threads of creation
@@ -29,6 +33,8 @@ Which blindly run through the threads of creation
 And end with a knit of mighty necessity, leaving
 
 Visages pale, wings broken and hearts drown in emotion.
+
+<br>
 
 The faerie butterfly, beholding the upcoming abyss,
 
@@ -46,6 +52,8 @@ Of Garden of Eden endowed with original beauty,
 
 Everything joyfully living.
 
+<br>
+
 Fear dissipates in the reverie of hope,
 
 And bells seem to cease for its sake, idling
@@ -60,4 +68,5 @@ Of butterfly dance, which can illuminate
 
 Even the darkest dale in the universe.
 
+<br>
 The flood of light effuses from the sky.

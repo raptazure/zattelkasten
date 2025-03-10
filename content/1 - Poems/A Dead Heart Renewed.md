@@ -12,18 +12,21 @@ Knowing higher glory & grander fate,
 
 Yet with baser pleasure does mate.
 
+<br>
 Horrible agent of habits
 
 Wrings and cracks his slumbering art 
 
 Into a handful of floating dust.
 
+<br>
 Deeply, deeply comes a poet of mirth,
 
 Joyous songs chanted forth,
 
 The veil of things become as froth.
 
+<br>
 Light surges into his dusky heart,
 
 Diminishing the fallen brazen mask,

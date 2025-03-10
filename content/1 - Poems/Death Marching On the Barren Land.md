@@ -13,6 +13,7 @@ Chaos commanding the warriors mad,
 
 Void of light I cannot see why.
 
+<br>
 War, War, eternal War, 
 
 seemingly irreconcilable.

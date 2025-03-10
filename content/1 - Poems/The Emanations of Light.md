@@ -13,6 +13,8 @@ The Emanations of light, continuously coloured -
 
 Refractions of reality, multi-faceted truths.
 
+<br>
+
 A strand of dark hair, seven times drenched  -
 
 Disintegration of black, spiral rainbows’ births.

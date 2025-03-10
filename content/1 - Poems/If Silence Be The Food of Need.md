@@ -5,7 +5,8 @@ tags:
   - poetry
 time: 2025-03-10 12:44
 ---
-If silence be the food of need,
+
+<br>If silence be the food of need,
 
 Then silence I give unto thee.
 
@@ -13,11 +14,15 @@ A friend made is thus unmade,
 
 The winds do not wail for me.
 
+<br>
+
 The feeble images of dissolution spread across our hearts.
 
 How can we behold again the lost realms of the ancient past?
 
 'Tis no more...
+
+<br>
 
 Only a wanderer meandering through the dense forest of decay,
 
@@ -28,6 +33,8 @@ Is left, weeping for days
 That are no more...
 
 Oh, never more....
+
+<br>
 
 Yet, a pure heart is still yearning
 
@@ -40,6 +47,8 @@ And unseen passions, flows
 Through the world
 
 Of restlessness...
+
+<br>
 
 Oh, never more...
 

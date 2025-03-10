@@ -15,6 +15,8 @@ Blood and War endless!
 
 Thou killed a God with a broken sword.
 
+<br>
+
 But for what reward?
 
 No redemption dwells in massacre
