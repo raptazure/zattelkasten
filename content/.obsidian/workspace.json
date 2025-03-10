@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Essays/The Book of Thel.md",
+                "file": "1 - Poems/A Dreaming Owl Unbound.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Book of Thel"
+              "title": "A Dreaming Owl Unbound"
+            }
+          },
+          {
+            "id": "647fc0733d338d4c",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
             }
           },
           {
@@ -27,13 +37,14 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "1 - Poems"
+                "path": "textgenerator/templates/default"
               },
               "icon": "lucide-file",
-              "title": "1 - Poems"
+              "title": "default"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -87,7 +98,7 @@
             }
           },
           {
-            "id": "96851a36a14feef4",
+            "id": "30f854f9109278c0",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -191,11 +202,17 @@
       "command-palette:Open command palette": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "copilot:Open Copilot Chat": false
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "e8cfec7e513cec98",
+  "active": "8cc73e797fdc693a",
   "lastOpenFiles": [
+    "Untitled.md",
+    "6 - Calendar/6 - Calendar.md",
+    "6 - Calendar",
+    "3 - Moments/2025-03-10 Read Scientism.md",
+    "1 - Poems/A Dreaming Owl Unbound.md",
+    "2 - Essays/The Book of Thel.md",
     "3 - Moments/2025-03-02 Illusory Summer.md",
     "textgenerator/templates/default/simplify.md",
     "textgenerator/templates/default/getIdeas.md",
@@ -214,17 +231,12 @@
     "2 - Essays/Reflection.md",
     "2 - Essays/Death and Rebirth.md",
     "2 - Essays/Luminescence.md",
-    "2 - Essays/The Book of Thel.md",
     "2 - Essays/The Tale of Fallen Angels - On Frankenstein.md",
     "2 - Essays/会饮篇.md",
     "4 - Source Material/Articles/Scientism.md",
     "2 - Essays/A Guide on How to Use this System.md",
     "1 - Poems/骨笛.md",
     "1 - Poems/颂太阳.md",
-    "1 - Poems/诞生.md",
-    "1 - Poems/电车.md",
-    "1 - Poems/油菜花田.md",
-    "1 - Poems/橙澄之月.md",
     "Tags",
     "1 - Poems/20231003_151734.jpg",
     "1 - Poems/20250111_091608.jpg",

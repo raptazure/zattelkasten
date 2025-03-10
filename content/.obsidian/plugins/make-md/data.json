@@ -35,7 +35,9 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/"
+    "/",
+    "//textgenerator/textgenerator/templates",
+    "//textgenerator/textgenerator/templates/textgenerator/templates/default"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
