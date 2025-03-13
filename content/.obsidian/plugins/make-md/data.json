@@ -39,7 +39,8 @@
     "//textgenerator/textgenerator/templates",
     "//textgenerator/textgenerator/templates/textgenerator/templates/default",
     "//6 - Calendar",
-    "//4 - Source Material/4 - Source Material/Books"
+    "//4 - Source Material/4 - Source Material/Books",
+    "//Attachments"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
