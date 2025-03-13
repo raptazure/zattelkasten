@@ -7,22 +7,15 @@ time: 2025-03-10 12:38
 ---
 - 2024.5.21
 
-Here comes a golden bee,
-
-Fleeing from its drenchèd flight,
-
+Here comes a golden bee,  
+Fleeing from its drenchèd flight,  
 Buzzing round a pile of dung.
-
-<br>
-O, fair dweller of sweet fragrance,
-
-When thy wings to heaviness sink,
-
-Thou dost choose a jail of stink,
-
-To escape the wearied voyage
-
-<br>
-In a humid day 
-
+  
+O, fair dweller of sweet fragrance,  
+When thy wings to heaviness sink,  
+Thou dost choose a jail of stink,  
+To escape the wearied voyage  
+  
+In a humid day   
 Of battering rain.
+

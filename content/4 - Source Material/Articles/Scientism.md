@@ -61,3 +61,50 @@ The 19th century witnessed the most powerful and enduring formulation of scienti
 ### Artificial Intelligence
 
 - The AI algorithms that dominate the market are essentially prediction machines. They crunch massive amounts of data and analyse patterns, which allows them to identify the most likely answer to a given question. On a fundamental level, much of human cognition centres around prediction, too, Pitkow says, but the mind is built for levels of reasoning, flexibility, creativity and abstract thinking that AI still hasn't replicated.
+
+# Scientism Explained
+
+### What is Scientism?
+
+Scientism is the belief that science is the ultimate and only source of knowledge. It suggests that anything outside the realm of scientific inquiry is either unimportant or invalid.
+
+### Arguments for Scientism
+
+- **Historical Roots**: Thinkers like René Descartes and Francis Bacon argued that understanding the physical world through science would empower humanity. They believed it could help us overcome major challenges like hunger and disease, improving our quality of life through technology.
+  
+### Rebuttals to Scientism
+
+1. **Neglecting Other Human Qualities**: Bacon and Descartes emphasized logic but dismissed other important human faculties such as creativity and imagination. This narrow view limited what activities were considered valuable.
+  
+2. **Threat to Science’s Integrity**: Critics argue that scientism harms science by provoking defensiveness in other fields of study, which can lead to a backlash against scientific advancements.
+  
+3. **Overemphasis on Human Behavior**: Scientism often focuses too much on human behavior while ignoring the vast diversity of life on Earth, leading to dismissive attitudes toward other fields of knowledge.
+
+4. **Claiming Exclusive Knowledge**: Claiming that only science can provide knowledge is like saying a fisherman knows everything about fish just because he can't catch them all; it overlooks other ways of understanding the world.
+
+5. **Philosophical Limitations**: The belief in scientism itself cannot be proven or disproven by science, making it an unscientific stance.
+
+6. **Misunderstanding Science's Scope**: Some argue that simply because something sounds scientific or is claimed by scientists does not make it true; there needs to be rigorous criteria for what qualifies as scientific knowledge.
+
+7. **Equating Science with Reason**: Advocates often confuse science with reason itself, ignoring that many questions in philosophy and ethics cannot be answered solely through scientific methods.
+
+8. **Similarity to Superstition**: Just as superstitions cling to unfounded beliefs without evidence, scientism claims that science has resolved questions beyond its actual capacity.
+
+9. **Potential Dangers**: Following scientism blindly could lead to skepticism about the very credibility of science, threatening its ability to address even its appropriate questions.
+
+### Positivism
+
+- Positivism, developed by August Comte in the 19th century, was a key form of scientism emphasizing empirical data gathered through senses as the only valid form of knowledge.
+
+#### Critiques of Positivism
+
+1. **Karl Popper's Falsifiability Principle**: Popper argued that while we can’t fully verify many scientific statements, we can disprove them through observation — suggesting falsifiability should define what counts as science.
+
+2. **W.O. Quine's Theory-Ladenness**: Quine pointed out that our observations are influenced by our theoretical frameworks; how we interpret data is not purely objective but shaped by pre-existing theories.
+
+### Artificial Intelligence
+
+- Modern AI systems are essentially complex prediction machines analyzing huge datasets for patterns to provide likely answers to questions.
+- While human cognition also involves prediction, humans possess greater flexibility, creativity, and abstract reasoning—qualities AI has yet to replicate fully.
+
+In summary, while science has made significant strides in understanding our world, it's important not to fall into the trap of scientism which limits inquiry and dismisses other valuable forms of knowledge and expression.

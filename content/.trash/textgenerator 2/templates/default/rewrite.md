@@ -1,0 +1,14 @@
+---
+promptId: rewrite
+name: ✏️ Rewrite, Paraphrase
+description: select a content and it will be rewriten.
+author: Noureddine
+tags:
+  - writing
+version: 0.0.1
+draft: true
+---
+content: 
+{{context}}
+prompt:
+rewrite the content to make it more attractive

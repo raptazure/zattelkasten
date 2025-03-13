@@ -1,8 +1,7 @@
 {
-  "cssTheme": "Obsidian Nord",
-  "textFontFamily": "Garamond,Papyrus,Monotype Corsiva,KaiTi",
-  "interfaceFontFamily": "Cambria",
-  "baseFontSize": 18,
-  "accentColor": "#37afcd",
-  "showRibbon": false
+  "cssTheme": "Blue Topaz",
+  "accentColor": "#60b3be",
+  "textFontFamily": "Garamond,KaiTi",
+  "baseFontSize": 19,
+  "interfaceFontFamily": "Constantia,KaiTi"
 }
