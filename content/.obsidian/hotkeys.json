@@ -6,5 +6,13 @@
       ],
       "key": "T"
     }
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F"
+    }
   ]
 }
