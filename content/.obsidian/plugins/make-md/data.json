@@ -35,12 +35,12 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/",
     "//textgenerator/textgenerator/templates",
     "//textgenerator/textgenerator/templates/textgenerator/templates/default",
     "//6 - Calendar",
     "//4 - Source Material/4 - Source Material/Books",
-    "//Attachments"
+    "//Attachments",
+    "/"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

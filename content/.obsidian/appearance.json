@@ -1,7 +1,8 @@
 {
   "cssTheme": "Blue Topaz",
   "accentColor": "#60b3be",
-  "textFontFamily": "Garamond,KaiTi",
+  "textFontFamily": "Garamond,KingHwa_OldSong",
   "baseFontSize": 19,
-  "interfaceFontFamily": "Constantia,KaiTi"
+  "interfaceFontFamily": "Constantia,KingHwa_OldSong",
+  "theme": "obsidian"
 }

@@ -1,4 +1,5 @@
 [
-  "make-md",
-  "better-export-pdf"
+  "better-export-pdf",
+  "onyx-boox-extractor",
+  "templater-obsidian"
 ]
